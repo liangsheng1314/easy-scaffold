@@ -1,0 +1,11 @@
+{
+  "name": "easy-scaffold",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/liangsheng1314/easy-scaffold.git",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "yeoman-generator": "^4.12.0"
+  }
+}
